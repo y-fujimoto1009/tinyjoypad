@@ -79,3 +79,5 @@ gbrフォルダにあるファイルをJLCPCBなどの基板発注サービス�
 
 ## 3Dプリンターでケースを作る
 3dmodelフォルダにあるファイルをそのまま3Dプリンターなどで印刷すればケースを付けることができます。M2×15のビスが4本必要です。
+
+<img src="https://github.com/user-attachments/assets/056c5c07-2afa-4e9e-8e62-095d6264505f" width="50%">
