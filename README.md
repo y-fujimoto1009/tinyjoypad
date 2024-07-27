@@ -1,8 +1,8 @@
 # tinyjoypad キット
 
-tinyjoypad キットは、attiny85を使ったゲーム機を作成するためのキットです。
+tinyjoypad キットは、attiny85を使ったゲーム機を作成するためのキットです。<br>
 tinyjoypadプロジェクトは
-[tinyjoypad ドキュメント](https://www.tinyjoypad.com/tinyjoypad_attiny85) 
+[こちら](https://www.tinyjoypad.com/tinyjoypad_attiny85) 
 
 <img src="https://github.com/user-attachments/assets/5a786e2c-6ccb-4db3-8b82-33c2ea627990" width="50%">
 
