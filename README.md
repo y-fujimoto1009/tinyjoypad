@@ -39,7 +39,7 @@ tinyjoypadプロジェクトは
 どの抵抗かわからなくなっても落ち着いてカラーコードを確認すれば大丈夫です。<br>
 
 ![IMG_1439](https://github.com/user-attachments/assets/a12f0c49-75a0-4cce-a289-5fa2058f2b82)<br>
- 10kΩ：茶黒橙金<br><br>
+ 10kΩ：茶赤黒黒茶<br><br>
  ![IMG_1441](https://github.com/user-attachments/assets/3b55701e-8d33-40bd-a95e-8af8d5628162)
  22kΩ：赤赤橙金<br><br>
  ![IMG_1442](https://github.com/user-attachments/assets/d0c186a5-31d9-4dfb-bc24-f39ccee16741)
