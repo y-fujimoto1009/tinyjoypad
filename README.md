@@ -1,4 +1,4 @@
-# tinyjoypad キット
+![IMG_1464 (1)](https://github.com/user-attachments/assets/877704da-6f07-4e52-ba61-1e4677261772)# tinyjoypad キット
 
 tinyjoypad キットは、attiny85を使ったゲーム機を作成するためのキットです。<br>
 tinyjoypadプロジェクトは
@@ -47,13 +47,38 @@ tinyjoypadプロジェクトは
  ![IMG_1440](https://github.com/user-attachments/assets/90feaaa1-3b6f-4cac-88cf-e76c26dd8cbc)
  91kΩ：茶赤黒茶白<br>
 
+ ![IMG_1455](https://github.com/user-attachments/assets/7e365834-287f-4b18-906d-31b1668cd054)
+
+
 2. OLEDを取り付けます。斜めにならないようにマスキングテープなどで固定してからはんだ付けしましょう。<br><br>
+![IMG_1456](https://github.com/user-attachments/assets/695b770d-2ee9-412c-a3ba-2bb5a6b67573)
+
+
 3. 電源スイッチを下に向けて取り付けます。ぐらぐらしますので、マスキングテープなどで仮固定してからはんだ付けしましょう。<br><br>
+![IMG_1457](https://github.com/user-attachments/assets/72645d90-e494-46a9-911d-3f87c9b08921)
+
+
 4. タクトスイッチを取り付けます。向きは関係ありません。スイッチキャップも付けましょう。あまり強く押さなくても取り付けられます。<br><br>
+![IMG_1460](https://github.com/user-attachments/assets/22360034-1252-4337-b103-0dba73fb79bf)
+
+
 5. LEDを取り付けます。足の短い方（カノード）をGNDの方にして取り付けてください。余った足はニッパーでカットしてOKです。<br><br>
+![IMG_1461 (1)](https://github.com/user-attachments/assets/a31b1599-2317-49bc-8438-4cf6dc7cb43e)
+
+
 6. ピンヘッダ、ICソケットを取り付けます。ICソケットにはattiny85を取り付けます。attiny85は左側にくぼみがくるように取り付けてください。<br><br>
+![IMG_1463 (1)](https://github.com/user-attachments/assets/b0082721-329a-406d-b805-711919fc2f4d)
+
+
 7. ブザーも向きがあります。＋と書いてる方を間違えずに取り付けてください。これで表面は完成です。<br><br>
+![IMG_1464 (3)](https://github.com/user-attachments/assets/1796c5a2-afb0-4f24-996f-02b8a3e364d5)
+
+
 8. 裏を向けてボタン電池ホルダーを取り付けます。今までと違い表面実装部品なので、先に基板にはんだを少し盛ってから、上から温めて接続するとうまくいきます。<br><br>
+![IMG_1466](https://github.com/user-attachments/assets/f43d53aa-4f14-4f0b-857f-f94211bafa2e)
+![IMG_1465](https://github.com/user-attachments/assets/2289197c-cb49-4f30-8e43-36c6d41354dd)
+
+
 
 あとは電池を＋面が表になるように接続して電源をONにすればゲームが起動するはずです！おめでとう！
 起動しない場合ははんだのミス（隣と接続されてしまっている箇所が無いかなど）、attiny85の向き、取付忘れなどないか確認してください。
