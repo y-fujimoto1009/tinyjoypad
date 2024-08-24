@@ -39,13 +39,13 @@ tinyjoypadプロジェクトは
 どの抵抗かわからなくなっても落ち着いてカラーコードを確認すれば大丈夫です。<br>
 
 ![IMG_1439](https://github.com/user-attachments/assets/a12f0c49-75a0-4cce-a289-5fa2058f2b82)<br>
- 10kΩ：黒赤黒黒茶<br><br>
+ 10kΩ：茶赤黒黒茶<br><br>
  ![IMG_1441](https://github.com/user-attachments/assets/3b55701e-8d33-40bd-a95e-8af8d5628162)
  22kΩ：赤赤黒赤茶<br><br>
  ![IMG_1442](https://github.com/user-attachments/assets/d0c186a5-31d9-4dfb-bc24-f39ccee16741)
  33kΩ：橙橙黒赤茶<br><br>
  ![IMG_1440](https://github.com/user-attachments/assets/90feaaa1-3b6f-4cac-88cf-e76c26dd8cbc)
- 91kΩ：茶赤黒黒白<br>
+ 91kΩ：茶赤黒茶白<br>
 
 2. OLEDを取り付けます。斜めにならないようにマスキングテープなどで固定してからはんだ付けしましょう。<br><br>
 3. 電源スイッチを下に向けて取り付けます。ぐらぐらしますので、マスキングテープなどで仮固定してからはんだ付けしましょう。<br><br>
