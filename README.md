@@ -1,4 +1,4 @@
-![IMG_1464 (1)](https://github.com/user-attachments/assets/877704da-6f07-4e52-ba61-1e4677261772)# tinyjoypad キット
+# tinyjoypad キット
 
 tinyjoypad キットは、attiny85を使ったゲーム機を作成するためのキットです。<br>
 tinyjoypadプロジェクトは
